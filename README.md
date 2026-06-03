@@ -38,9 +38,15 @@ When your platforms are ready, find and replace these two placeholders in `index
 ```
 29th-street-deli/
 ├── index.html      # Entire site (HTML + CSS + JS inline)
+├── menu.pdf        # Menu PDF — replace with your current menu file
 ├── Deli_Logo.svg   # Business logo (available for future use)
 └── README.md       # This file
 ```
+
+## Updating the menu PDF
+
+The "View Full Menu PDF" button links to `menu.pdf` in the project root.
+To update it, just replace `menu.pdf` with your new file — keep the filename the same and redeploy.
 
 ## Key details
 
